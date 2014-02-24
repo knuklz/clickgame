@@ -7,13 +7,18 @@ public class Game {
 		
 		
 		//Define score variables
-		Window thingy = new Window();
+		
 		
 		//Create a basic window
+		
+		Window thingy = new Window();
 			//objects that make up said game window
+			
+			//TODO: Create button, create label
+			
 		//gameloop
 		
-		
+		//todo
 		
 		
 		
